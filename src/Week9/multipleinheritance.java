@@ -1,4 +1,9 @@
 package Week9;
 
-public class multipleinheritance {
+interface a{
+    void displayA();
+}
+
+interface b{
+    void displayB();
 }
